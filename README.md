@@ -85,6 +85,15 @@ Open `index.html` in your web browser to use the application.
 5. Open the extracted folder
 6. Open `index.html` in your web browser to use the application
 
+## Browser Compatibility
+
+Tested and working on:
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile browsers (iOS Safari, Android Chrome)
+
 ## License and Legal Notice
 
 **Copyright (c) 2025 Ramazan Çetinkaya**
